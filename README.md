@@ -1,6 +1,6 @@
 # AbacoStack-Game-175
 game instruction in readme.txt
-AbacoStack is a game invented for this CMPUT175 UofA by by professor Osmar Zaine (He is a great prof) in Winter semester so don't bother looking for it online. TO orderly read it, read it directly in README.t 
+AbacoStack is a game invented for this CMPUT175 UofA by by professor Osmar Zaine (He is a great prof) in Winter semester so don't bother looking for it online. TO orderly read it, read it directly in README.txt
 
 
 ![image](https://user-images.githubusercontent.com/70949118/161392424-561ba01f-abcc-477a-ae59-9685327807ea.png)

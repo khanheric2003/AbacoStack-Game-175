@@ -1,6 +1,6 @@
-# AbacoStack-Game-175
+# AbacoStack-Game
 game instruction in readme.txt
-AbacoStack is a game invented for this CMPUT175 UofA by by professor Osmar Zaine (He is a great prof) in Winter semester so don't bother looking for it online. TO orderly read it, read it directly in README.txt
+
 
 
 ![image](https://user-images.githubusercontent.com/70949118/161392424-561ba01f-abcc-477a-ae59-9685327807ea.png)
@@ -11,18 +11,18 @@ You have a structure formed by three side by side stacks that are limited in siz
 Back to our explanation, above these three stacks, you have a list of five positions from 0 to 4. The first stack is aligned with position 1; stack 2 with position 2, and stack 3 with position 3. Positions 0 and 4 don't have a stack aligned with them.
 
 See this figure below to have a better idea about how this structure looks.
-0 1 2 3 4
-. . . . .
-  . . . 
-  . . . 
-  . . .
+0 1 2 3 4\n
+. . . . .\n
+  . . . \n
+  . . . \n
+  . . .\n
 The structure is filled with nine beads: 3 As, 3 Bs and 3 Cs, representing 3 colours. Initially the structure looks like this with the 3 stacks each filled with either all As, Bs, or Cs.
 
-0 1 2 3 4
-. . . . .
-  A B C 
-  A B C 
-  A B C
+0 1 2 3 4\n
+. . . . .\n
+  A B C \n
+  A B C \n
+  A B C\n
 The structure always has 9 beads. The beads can move one position at a time to an empty position. An empty position is represented by a "." here.
 
 For example from the initial configuration, one can pop a bead from the first stack and switch it with the top bead in the second stack in the follow series of moves:

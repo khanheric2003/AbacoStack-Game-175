@@ -11,10 +11,10 @@ You have a structure formed by three side by side stacks that are limited in siz
 Back to our explanation, above these three stacks, you have a list of five positions from 0 to 4. The first stack is aligned with position 1; stack 2 with position 2, and stack 3 with position 3. Positions 0 and 4 don't have a stack aligned with them.
 
 See this figure below to have a better idea about how this structure looks.
-0 1 2 3 4\n
-. . . . .\n
-  . . . \n
-  . . . \n
+0 1 2 3 4  
+. . . . .  
+  . . .  
+  . . .  
   . . .\n
 The structure is filled with nine beads: 3 As, 3 Bs and 3 Cs, representing 3 colours. Initially the structure looks like this with the 3 stacks each filled with either all As, Bs, or Cs.
 

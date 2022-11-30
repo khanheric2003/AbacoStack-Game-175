@@ -17,7 +17,7 @@ See this figure below to have a better idea about how this structure looks.
   . . .  
   . . .  
   . . .  
-<\pre>
+
 The structure is filled with nine beads: 3 As, 3 Bs and 3 Cs, representing 3 colours. Initially the structure looks like this with the 3 stacks each filled with either all As, Bs, or Cs.  
 <pre>
 0 1 2 3 4  
@@ -25,7 +25,7 @@ The structure is filled with nine beads: 3 As, 3 Bs and 3 Cs, representing 3 col
   A B C  
   A B C  
   A B C  
-<\pre>
+
 The structure always has 9 beads. The beads can move one position at a time to an empty position. An empty position is represented by a "." here.
 For example from the initial configuration, one can pop a bead from the first stack and switch it with the top bead in the second stack in the follow series of moves:  
 <pre>
@@ -84,7 +84,7 @@ A . . . .
   B A C 
   A B C 
   A B C
-<\pre>  
+
 The game consists of getting a random configuration card and doing the minimum numbers of moves to change the beads of the AbacoStack to that given configuration.
 
 For example, you get the following card:
@@ -114,3 +114,4 @@ The moves are indicated by the following input pair ij where i is a digit and j 
 2r and 2l mean position 2 right move and left move respectively
 3r and 3l mean position 3 right move and left move respectively
 4l means position 4 left move
+<\pre>  
